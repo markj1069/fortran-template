@@ -1,2 +1,2 @@
 # Project
-Article Template in Markdown
+Fortan Templates
